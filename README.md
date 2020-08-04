@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+An example to show a testing framework in R using the testthat package. 
 
 ### What is this repository for? ###
 
